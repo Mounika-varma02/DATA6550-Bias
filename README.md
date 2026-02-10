@@ -1,12 +1,12 @@
 # DATA6550 – Data Bias Project
 
-This repository contains the group project for DATA6550 focused on identifying and analyzing bias in datasets.
+This repository contains our group project for DATA6550, focused on analyzing bias in employment related data. The goal of this project is to examine employee information and identify patterns that may be related to unfair or unequal workplace outcomes, such as employee attrition.
 
 ## Project Topic
-Hiring & Employment Bias in AI-Driven Resume Screening Systems.
+Hiring & Employment Bias
 
 ## Dataset
-AI-Driven Resume Screening Dataset (Kaggle).
+IBM HR Analytics – Employee Attrition & Performance Dataset.
 
 ## Repository Structure
 - Code/: Individual code contributions from each group member
