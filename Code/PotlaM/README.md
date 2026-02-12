@@ -1,0 +1,1 @@
+MonthlyIncome → Attrition (economic bias).
